@@ -1,12 +1,8 @@
+import Login from './pages/Login'
+import './App.css'
 
 function App() {
-  // const [count, setCount] = useState(0)
-
-  return (
-    <>
-      <h1>oiiii</h1>
-    </>
-  )
+  return <Login />
 }
 
 export default App
